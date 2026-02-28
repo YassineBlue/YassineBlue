@@ -1,23 +1,30 @@
-# 👋 Hi, I'm Yassine
+<h1>Hey, I'm Yassine 👋</h1>
 
-**Clean code, simple projects, focused learning** 🌍
-
----
-
-## 🛠️ Skills
-**HTML** ▓▓▓▓▓▓▓▓▓▓ 90%  
-**CSS** ▓▓▓▓▓▓▓▓▓░ 85%  
-**JavaScript** ▓▓▓▓▓▓▓▓░░ 80%  
-**Bootstrap** ▓▓▓▓▓▓▓░░░ 75%  
-**Python** ▓▓▓▓▓░░░░░ 60%  
-**C++** ▓▓▓▓▓░░░░░ 65%  
+<p>
+Full-Stack development student who enjoys building simple, clean things.
+</p>
 
 ---
 
-## 📂 Featured Project
-**[Gestion des Employes](https://yassineblue.github.io/Gestion-des-Employes/)**  
-Employee management form & table using HTML, CSS, JS, Bootstrap
+### 🧰 What I work with
+HTML · CSS · JavaScript · Bootstrap  
+Python · C++
 
 ---
 
-*“Write code simply, optimize constantly.”*
+### 🛠 Currently building
+<a href="https://yassineblue.github.io/Gestion-des-Employes/">
+Gestion des Employes
+</a>  
+A small employee management interface built with vanilla JS.
+
+---
+
+### 🌱 Learning
+Improving frontend fundamentals  
+Understanding backend logic deeper  
+Writing cleaner, more maintainable code  
+
+---
+
+<sub>One small project at a time.</sub>
