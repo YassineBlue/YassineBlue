@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Yassine
 
-<!--
-**YassineBlue/YassineBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Clean code, simple projects, focused learning** 🌍
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**HTML**  
+<progress value="90" max="100" style="width:200px;"></progress>
+
+**CSS**  
+<progress value="85" max="100" style="width:200px;"></progress>
+
+**JavaScript**  
+<progress value="80" max="100" style="width:200px;"></progress>
+
+**Bootstrap**  
+<progress value="75" max="100" style="width:200px;"></progress>
+
+**Python**  
+<progress value="60" max="100" style="width:200px;"></progress>
+
+**C++**  
+<progress value="65" max="100" style="width:200px;"></progress>
+
+---
+
+## 📂 Featured Project
+- **[Gestion des Employes](https://yassineblue.github.io/Gestion-des-Employes/)** – Employee management form & table using HTML, CSS, JS, Bootstrap
+
+---
+
+## 📈 GitHub Stats
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=YassineBlue&show_icons=true&theme=radical" alt="Yassine's GitHub stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBlue&layout=compact&theme=radical" alt="Top Languages" />
+</td>
+</tr>
+</table>
+
+---
+
+*“Write code simply, optimize constantly.”*
