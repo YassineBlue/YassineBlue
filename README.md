@@ -32,16 +32,8 @@
 ---
 
 ## 📈 GitHub Stats
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=YassineBlue&show_icons=true&theme=radical" alt="Yassine's GitHub stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBlue&layout=compact&theme=radical" alt="Top Languages" />
-</td>
-</tr>
-</table>
+![Yassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineBlue&show_icons=true&theme=radical&hide=issues,contribs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YassineBlue&layout=compact&theme=radical)
 
 ---
 
