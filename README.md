@@ -7,9 +7,8 @@ Full-Stack development student who enjoys building simple, clean things.
 ---
 
 ### 🧰 What I work with
-HTML · CSS · JavaScript · Bootstrap  
-Python · C++ 
-PHP 
+HTML · CSS · JavaScript · PHP 
+Python · C++  
 
 ---
 
