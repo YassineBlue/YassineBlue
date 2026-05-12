@@ -16,7 +16,7 @@ Python · C++
 ## 🛠 Currently building
 
 🚀 **[WBook](https://yassineblue.github.io/WBook/)**  
-A modern book e-commerce platform.
+A frontend e-commerce book store with filtering, dynamic rendering, and a roulette recommendation feature.
 
 ---
 
