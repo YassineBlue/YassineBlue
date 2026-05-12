@@ -13,11 +13,10 @@ Python · C++
 
 ---
 
-### 🛠 Currently building
-<a href="https://yassineblue.github.io/Gestion-des-Employes/">
-Gestion des Employes
-</a>  
-A small employee management interface built with vanilla JS.
+## 🛠 Currently building
+
+🚀 **[WBook](https://yassineblue.github.io/WBook/)**  
+A modern book e-commerce platform.
 
 ---
 
