@@ -1,28 +1,30 @@
 <h1>Hey, I'm Yassine 👋</h1>
 
 <p>
-Full-Stack development student who enjoys building simple, clean things.
+Full-stack development enthusiast who enjoys building simple, clean things.
 </p>
 
 ---
 
-### 🧰 What I work with
-HTML · CSS · JavaScript · PHP 
+### 🧰 Tech Stack
 
-Python · C++  
+Frontend: HTML, CSS, JavaScript  
+Backend: PHP, Python  
+Database: SQL  
+Languages: C++  
 
 ---
 
-## 🛠 Currently building
+## 🛠 Currently Building
 
 🚀 **[WBook](https://yassineblue.github.io/WBook/)**  
-A frontend e-commerce book store with filtering, dynamic rendering, and a roulette recommendation feature.
+A frontend e-commerce bookstore featuring filtering, dynamic rendering, and a roulette recommendation system.
 
 ---
 
 ### 🌱 Learning
 Improving frontend fundamentals  
-Understanding backend logic deeper  
+Understanding backend logic more deeply  
 Writing cleaner, more maintainable code  
 
 ---
